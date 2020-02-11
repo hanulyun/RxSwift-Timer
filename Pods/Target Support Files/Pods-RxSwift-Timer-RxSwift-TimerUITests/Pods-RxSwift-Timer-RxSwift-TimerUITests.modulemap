@@ -1,0 +1,6 @@
+framework module Pods_RxSwift_Timer_RxSwift_TimerUITests {
+  umbrella header "Pods-RxSwift-Timer-RxSwift-TimerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
